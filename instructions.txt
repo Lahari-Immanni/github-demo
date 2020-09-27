@@ -1,0 +1,3 @@
+It gives instructions about this project
+It is an MVC project
+The database used in this project is SQL Server
